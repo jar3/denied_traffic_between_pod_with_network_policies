@@ -2,6 +2,9 @@
 
 This guide demonstrates how to create and apply a Kubernetes Network Policy to deny traffic between pods across namespaces while allowing communication within the same namespace. It also includes steps to set up the environment and test the behavior.
 
+## Note
+If you are using Minikube in GitHub Codespaces, you can skip step 1 as the cluster setup is pre-configured.
+
 ## 1. Create the Cluster
 
 ### Add Nodes to the Cluster
