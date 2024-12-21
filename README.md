@@ -1,0 +1,1 @@
+# denied_traffic_between_pod_with_network_policies
